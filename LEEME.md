@@ -1,4 +1,4 @@
-##Explicación del funcionamiento de la app en **App Inventor**:
+Explicación del funcionamiento de la app en **App Inventor**:
 
 1. **Pantalla principal**: La aplicación muestra una interfaz con un botón para conectar al dispositivo ESP32 vía Bluetooth. También tiene etiquetas que muestran los datos de **temperatura** y **humedad** recibidos del sensor DHT11.
 
@@ -13,7 +13,7 @@
 4. **Botones y funcionalidad**:
    - Puede haber botones para desconectar el dispositivo ESP32 del bluetooth y que este pueda volver a su modo reposo (deep-sleep).
 
-##Flujo típico de la app:
+Flujo típico de la app:
 
 1. El usuario abre la app en el dispositivo móvil.
 2. Se presiona un botón para iniciar la búsqueda de dispositivos Bluetooth.
